@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Hey there! 👋 I'm Muhammad Subhan Khan, a tech enthusiast who thrives on Full-Stack development. I'm passionate about crafting code that brings joy, staying ahead of the curve with the latest tech innovations, and creating projects that shake things up. At the moment, I'm fully immersed in the metaverse, generative AI, and web 3.0, where I'm charting new courses in innovation and creativity. With a solid foundation in Information Technology, I'm driven by the potential of tech to solve everyday challenges. Excited to share my journey and collaborate with like-minded pioneers. Let's connect and build something extraordinary! 💥"
+"Hey there! 👋 I'm Muhammad Subhan Khan, a tech enthusiast who thrives on Full-Stack Software development. I'm passionate about crafting code that brings joy, staying ahead of the curve with the latest tech innovations, and creating projects that shake things up. At the moment, I'm fully immersed in the metaverse, generative AI, and web 3.0, where I'm charting new courses in innovation and creativity. With a solid foundation in Information Technology, I'm driven by the potential of tech to solve everyday challenges. Excited to share my journey and collaborate with like-minded pioneers. Let's connect and build something extraordinary! 💥"
 
 
 ## 🌐 Socials:
